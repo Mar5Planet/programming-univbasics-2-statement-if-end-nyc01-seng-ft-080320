@@ -1,3 +1,3 @@
 # Write your solution here
-current_time = time.now 
+current_time = Time.now 
 return current_time
